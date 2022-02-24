@@ -7,7 +7,7 @@ React é um framework maravilhoso, e estou gostando MUITO de trabalhar com ele.
 
 #
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href='https://calculador-imc.vercel.app/'>Visite o site</a>
+<a target='_blank' href='https://calculador-imc.vercel.app/'>Visite o site</a>
 #
 
 ## Curiosidades
