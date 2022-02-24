@@ -5,6 +5,11 @@ Já fiz muitos calculadores de IMC em Js, assim como muita gente, quando estamos
 #
 React é um framework maravilhoso, e estou gostando MUITO de trabalhar com ele.
 
+#
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+<a href='https://calculador-imc.vercel.app/'>Visite o site</a>
+#
+
 ## Curiosidades
 
 Fiz esse calculador de uma forma diferente, não tem um botão, os números vai aparecendo conforme a usuário digita no input.
